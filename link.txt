@@ -1,0 +1,5 @@
+http://localhost:5000
+
+http://localhost:5000/socialapp2
+
+http://localhost:5000/cyber_vaccine
